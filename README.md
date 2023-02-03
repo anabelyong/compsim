@@ -8,13 +8,13 @@ These are courseworks submitted for Computer Simulation. 25/25 (100%) attained i
 5) Checkpoint 5: Orbital Motion: calcuate path and enegy of projectile under drag.
 
 Objectives of Computer Simulation Course:
--Understand the motivation for computing, understand the basics of Linux, be able to use the command line, emacs editor and execute Python scripts.
--Understand variables and how operators perform basic arithmetic.
--Understand how to read and write from/to a terminal window and write a basic Python programme.
--Understand how to import additional libraries including math, cmath and random.
--Understand conditional statments and indentation rules and write programs using these.
--Understand list and loop constructs.
--Understand and be able to use the matplotlib library to produce simple static graphs of data.
--Understand basic text-based file input and output and be able to write simple programs to read data and produce graphs.
--Understand the use of functions as a way to organise code and be able to write programs using these.
--Be aware of more complex Python constructs, in particular elementary lists comprehension and basic OOP
+1) Understand the motivation for computing, understand the basics of Linux, be able to use the command line, emacs editor and execute Python scripts.
+2) Understand variables and how operators perform basic arithmetic.
+3) Understand how to read and write from/to a terminal window and write a basic Python programme.
+4) Understand how to import additional libraries including math, cmath and random.
+5) Understand conditional statments and indentation rules and write programs using these.
+6) Understand list and loop constructs.
+7) Understand and be able to use the matplotlib library to produce simple static graphs of data.
+8) Understand basic text-based file input and output and be able to write simple programs to read data and produce graphs.
+9) Understand the use of functions as a way to organise code and be able to write programs using these.
+10) Be aware of more complex Python constructs, in particular elementary lists comprehension and basic OOP
